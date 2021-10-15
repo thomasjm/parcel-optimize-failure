@@ -1,0 +1,12 @@
+{
+  "name": "parceltest",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "dependencies": {
+    "@nteract/data-explorer": "^8.2.12",
+    "parcel": "^2.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.1"
+  }
+}
